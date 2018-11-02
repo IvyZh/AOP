@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AOP</string>
+    <string name="str_net_error">请检查您的网络....</string>
+    <string name="str_net_error1">请检查您的网络1....</string>
+    <string name="str_net_error2">请检查您的网络2....</string>
+    <string name="str_net_error3">请检查您的网络3....</string>
+</resources>
